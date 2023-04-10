@@ -35,12 +35,12 @@ const Home = () => {
     <div className="root">
       <Head>
        <link rel="icon" href="favicon.ico"/>
-       <title>Word Finder</title>
+       <title>Wo</title>
       </Head>
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Word Finder</h1>
+            <h1>Vocabulate</h1>
           </div>
           <div className="header-subtitle">
             <h2>
