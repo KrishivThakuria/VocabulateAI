@@ -35,7 +35,7 @@ const Home = () => {
     <div className="root">
       <Head>
        <link rel="icon" href="favicon.ico"/>
-       <title>Wo</title>
+       <title>Vocabulate</title>
       </Head>
       <div className="container">
         <div className="header">
@@ -44,7 +44,7 @@ const Home = () => {
           </div>
           <div className="header-subtitle">
             <h2>
-            Find the word you're thinking of just by describing it
+            Find the word you want just by describing it
             </h2>
           </div>
         </div>
